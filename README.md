@@ -1,6 +1,6 @@
-### 👋 Sawubona, unjani? I'm Sakhile
+### 👋 Sawubona, unjani?
 
-**Full-Stack & Data Engineer** from KwaZulu-Natal, South Africa. 
+**Full-Stack & Data Engineer** from KwaZulu-Natal, South Africa, currently building [Campus Place](https://campusplace.org/). 
 
 ### 🛠️ Tech Stack
 
