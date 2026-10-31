@@ -1,6 +1,6 @@
 ### 👋 Sawubona, unjani?
 
-I'm a **Full-Stack & Data Engineering Learner** from KwaZulu-Natal, South Africa, currently building [Campus Place](https://campusplace.org/). 
+I'm a **Full-Stack & Data Engineering Learner** from KwaZulu-Natal, South Africa. Currently building [Campus Place](https://campusplace.org/). 
 
 ### 🛠️ Tech Stack
 
